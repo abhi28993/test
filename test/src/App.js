@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload. h the merge and fetch command 
+          Edit <code>src/App.js</code> and save to reload. hii i mam jkjafh added data directly from the git again check the merge and fetch command 
         </p>
         <a
           className="App-link"
